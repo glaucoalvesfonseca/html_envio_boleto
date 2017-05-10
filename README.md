@@ -4,4 +4,5 @@ Repositório contendo o arquivo HTML usado para criar a mensagem de e-mail sobre
 ## Dependencies
 Além de um editor de texto, nada mais é necessário para editar o arquivo HTML.
 
-# Tutorial para alteração de mensagem no Facplan
+## Tutorial para alteração de mensagem no Facplan
+Acesse o [Tutorial](https://github.com/paulozip/html_envio_boleto/blob/master/tutorial_para_alterar_mensagem.md) para saber como alterar a mensagem no Facplan via `PL SQL`.
